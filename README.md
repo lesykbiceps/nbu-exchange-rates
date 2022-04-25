@@ -20,6 +20,7 @@ It uses the following libraries:
 | ------ | ------ |
 | Requests | https://pypi.org/project/requests/ |
 | Matplotlib | https://pypi.org/project/matplotlib/ |
+
 Why you need them?
 - [Requests](https://pypi.org/project/requests/) for requests to exchange rates
 - [matplotlib](https://pypi.org/project/matplotlib/) to draw a graph
@@ -71,8 +72,11 @@ def main():
 - TRY | Турецька ліра
 - CAD | Канадський долар
 - for more currencies follow this link https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?date=20220402&json
+
 ## License
+
 Data are taken from the link: https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?date=20220402&json
 MIT
+
 **Free Software, Hell Yeah!**
 
