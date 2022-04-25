@@ -45,7 +45,7 @@ import csv
 
 from datetime import datetime
 
-from privat_exchange_rates import get_exchange_rates,format_time,to_json,to_csv,get_diagram
+from nbu_exchange_rates import get_exchange_rates,format_time,to_json,to_csv,get_diagram
 
 
 def main():
