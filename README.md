@@ -61,8 +61,9 @@ def main():
     # Євро:31.5792 (20.04.2022)    
     # Євро:31.6787 (21.04.2022)    
     # Євро:31.8264 (22.04.2022)
-    ![](images/img-diagram.png)     
-```   
+``` 
+![](images/img-diagram.png)     
+
 
 # Available currencies
 - USD | Долар США
