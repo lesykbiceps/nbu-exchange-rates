@@ -1,4 +1,5 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/privat_exchange_rates?style=for-the-badge) 
+
 ![PyPI - Developer](https://img.shields.io/badge/Developer-LesDev-orange) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) ![PyPI - License](https://img.shields.io/github/license/lesykbiceps/nbu-exchange-rates)
 
 **Official Repo:** https://github.com/lesykbiceps/nbu-exchange-rates
@@ -8,13 +9,8 @@ Welcome! Using this library you can collect exchange rates and reproduce this in
 - Get graphs of how the exchange rate of a particular currency has changed
 - Get the selected exchange rate
 
-
-
-
 > Those who have access to data 
 > have great opportunities
-
-
 
 ## Libraries
 
